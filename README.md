@@ -1,2 +1,2 @@
 # hello-world
-hello! I'm on GitHub now
+Hello! I'm on GitHub now.
